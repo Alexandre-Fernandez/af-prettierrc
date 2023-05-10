@@ -1,0 +1,22 @@
+{
+	"name": "af-prettierrc",
+	"version": "1.0.0",
+	"author": "alexandre-fernandez",
+	"description": "Prettier configuration.",
+	"license": "MIT",
+	"main": "prettierrc.json",
+	"keywords": [
+		"prettier",
+		"configuration"
+	],
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/alexandre-fernandez/af-prettierrc"
+	},
+	"contributors": [
+		{
+			"name": "Alexandre Fernandez",
+			"url": "https://github.com/alexandre-fernandez"
+		}
+	]
+}
